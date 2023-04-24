@@ -1,0 +1,30 @@
+
+.header {
+  width: 100%;
+  height: 80px;
+  background-image: linear-gradient(#191919, #1886fc);
+  color: white;
+  padding: 6px;
+}
+
+.nav-items {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.list {
+  width: 220px;
+  height: 220px;
+  /* background-color: #191919; */
+  background-image: linear-gradient(#191919, #18b4fc);
+  margin-top: 50px;
+  border-radius: 20px;
+  margin-left: 40px;
+  text-align: center;
+  line-height: 200px;
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  
+}
+
